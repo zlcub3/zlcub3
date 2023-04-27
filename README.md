@@ -12,3 +12,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cub3&show_icons=true&locale=en&layout=compact" alt="cub3" /></p>
 
+https://github-profile-trophy.vercel.app/?username=cub3&theme=dracula
+
